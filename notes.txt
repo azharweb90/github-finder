@@ -1,0 +1,37 @@
+//DONE 
+
+Creation of React app
+Class based component vs functional Components
+Component lifecycle
+React Routing 
+React usestate
+React useReducer
+React useEffect
+Axios and Fetch
+React .env
+
+
+//Pending task
+
+1. users Page
+2. User Detail Page
+
+
+//Have to learn
+
+1. React Redux
+2. Redux Saga
+3. lodash
+4. immer
+5. Github Repo
+6. Netlify deployment
+7. Node js
+8. Express module and Express Framework
+
+
+//Create Backend API Using Node js and express
+
+1. Create API's 
+2. Create Mongo DB database
+3. deploy the backend at heroku
+
